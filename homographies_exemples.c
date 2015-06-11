@@ -70,8 +70,8 @@ H[2][1]=0.001714;
 H[2][2]=1.;
 /**/
 
-//*
-  ///Deplacement fort du coin supérieur gauche (horizon visible)
+/*
+///Deplacement fort du coin supérieur gauche (horizon visible)
 H[0][0]=5.941860;
 H[0][1]=4.035144;
 H[0][2]=-2128.915394;
